@@ -53,4 +53,5 @@ I enjoy building things that are:
 ## 🔗 Links
 - GitHub: https://github.com/RustamTahmaz
 - LinkedIn: https://linkedin.com/in/yourprofile
+- Personal Project: https://olympus-kappa.vercel.app/
 
